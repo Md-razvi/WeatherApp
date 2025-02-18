@@ -20,7 +20,7 @@ FRONTEND TOOL: VITE with REACT and javascript
 
 API : https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
 
-API Tools: I am using here Thubder client in the vs code you can post man also , It doesn't matter . 
+API Tools: I am using here Thubder client in the vs code you can use *Post Man* also , It doesn't matter . 
 
 ##DESCRIPTION
 
@@ -36,9 +36,12 @@ Using the Thubder clinet the API feature we want to integrate are
 4) pressure
 5) humidyty
 
-As for lat and long given you can check places with help of  the given site  *https://www.latlong.net*  you will get the IdeaOnce you check it out .
+As for lat and long given you can check places with help of  the given site  *https://www.latlong.net*  you will get the IdeaOnce you check it out.
 
-##PICTURES
+# My Weather Cards:
+
+
+##Behance Output Designes
 
 ![Image](https://github.com/user-attachments/assets/c7cc79bd-a020-4782-8418-c23ae5a1cf71)
 

@@ -22,7 +22,10 @@ API : https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=
 
 ##DESCRIPTION
 
-The given application is  a simple Weather App Web Page where the idea is that it will show the  current weather  based on selecting a particular place using select option in given web page and the Idea is that on selection the particular option we will get a weather of that Area Given is the idea that i got
+The given application is  a simple Weather App Web Page where the idea is that it will show the  current weather  based on selecting a particular place using select option in given web page and the Idea is that on selection the particular option we will get a weather of that Area Given is the idea that i got.
+
+Created Weather Cards in where you will have heading and number shown in the data . Now According to the weather data as shown in the weather API the following we have to integrate with in the web application .
+
 
 ##PICTURES
 
